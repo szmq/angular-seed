@@ -1,6 +1,7 @@
 ## angular-seed
 
-This project is an application skeleton for a typical AngularJS web app.
+This project is an application skeleton for a typical AngularJS web app.<br>
+Live: http://szymon-ryczek.pl/projekty/angular-seed/
 <img src="http://i.imgur.com/xghtFLt.png" width="100%">
 <img src="http://i.imgur.com/OGvxYnI.png" width="100%">
 
